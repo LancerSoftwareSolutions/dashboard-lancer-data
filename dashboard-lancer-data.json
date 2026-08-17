@@ -1,0 +1,16 @@
+{
+  "transactions": [
+    {
+      "id": "msx1idl01j7kz",
+      "type": "income",
+      "amount": 120,
+      "date": "2026-08-17",
+      "category": "Web design",
+      "clientId": null,
+      "note": ""
+    }
+  ],
+  "clients": [],
+  "workLogs": [],
+  "theme": "light"
+}
