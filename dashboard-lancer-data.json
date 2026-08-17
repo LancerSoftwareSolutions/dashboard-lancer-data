@@ -35,6 +35,15 @@
       "category": "Software & tools",
       "clientId": null,
       "note": "Test"
+    },
+    {
+      "id": "msx2gbwnk2tok",
+      "type": "expense",
+      "amount": 20,
+      "date": "2026-08-17",
+      "category": "Contractor",
+      "clientId": "msx0puz44j2gh",
+      "note": "Test"
     }
   ],
   "clients": [
