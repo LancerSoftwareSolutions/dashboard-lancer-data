@@ -1,16 +1,84 @@
 {
   "transactions": [
     {
-      "id": "msx1idl01j7kz",
+      "id": "msx0riypar66f",
       "type": "income",
       "amount": 120,
       "date": "2026-08-17",
       "category": "Web design",
+      "clientId": "msx0pgf7gyrx4",
+      "note": "Test"
+    },
+    {
+      "id": "msx0s0vxxml5j",
+      "type": "income",
+      "amount": 21,
+      "date": "2026-08-17",
+      "category": "Web design",
+      "clientId": "msx0puz44j2gh",
+      "note": "Test"
+    },
+    {
+      "id": "msx0sl0h5r5sz",
+      "type": "income",
+      "amount": 0,
+      "date": "2026-08-17",
+      "category": "Web design",
+      "clientId": "msx0q54suz7o4",
+      "note": "Test"
+    },
+    {
+      "id": "msx0t5z26psx9",
+      "type": "expense",
+      "amount": 21,
+      "date": "2026-08-17",
+      "category": "Software & tools",
       "clientId": null,
-      "note": ""
+      "note": "Test"
     }
   ],
-  "clients": [],
-  "workLogs": [],
+  "clients": [
+    {
+      "id": "msx0pgf7gyrx4",
+      "name": "YOUJAD_LB",
+      "status": "active",
+      "note": "Test"
+    },
+    {
+      "id": "msx0puz44j2gh",
+      "name": "Stryve",
+      "status": "lead",
+      "note": "Test"
+    },
+    {
+      "id": "msx0q54suz7o4",
+      "name": "Lemure",
+      "status": "done",
+      "note": "Test"
+    }
+  ],
+  "workLogs": [
+    {
+      "id": "msx0qeowdqwcc",
+      "date": "2026-08-17",
+      "hours": 1,
+      "clientId": "msx0pgf7gyrx4",
+      "task": "Test"
+    },
+    {
+      "id": "msx0qmqwib8dz",
+      "date": "2026-08-17",
+      "hours": 2,
+      "clientId": "msx0puz44j2gh",
+      "task": "Test"
+    },
+    {
+      "id": "msx0qvyrg91tn",
+      "date": "2026-08-17",
+      "hours": 15,
+      "clientId": "msx0q54suz7o4",
+      "task": "Test"
+    }
+  ],
   "theme": "light"
 }
