@@ -93,6 +93,13 @@
       "hours": 15,
       "clientId": "msx0q54suz7o4",
       "task": "Test"
+    },
+    {
+      "id": "msx2hem6q8piq",
+      "date": "2026-08-17",
+      "hours": 5,
+      "clientId": "msx2h1q98d1cn",
+      "task": "htdj"
     }
   ],
   "theme": "light"
