@@ -64,6 +64,12 @@
       "name": "Lemure",
       "status": "done",
       "note": "Test"
+    },
+    {
+      "id": "msx2h1q98d1cn",
+      "name": "NTA",
+      "status": "lead",
+      "note": "Test"
     }
   ],
   "workLogs": [
