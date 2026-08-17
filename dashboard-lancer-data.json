@@ -44,15 +44,6 @@
       "category": "Contractor",
       "clientId": "msx0puz44j2gh",
       "note": "Test"
-    },
-    {
-      "id": "msxv59bzbcuxv",
-      "type": "income",
-      "amount": 4,
-      "date": "2026-08-18",
-      "category": "Web design",
-      "clientId": "msx0pgf7gyrx4",
-      "note": ""
     }
   ],
   "clients": [
