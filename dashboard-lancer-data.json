@@ -1,24 +1,5 @@
 {
-  "transactions": [
-    {
-      "id": "msx0riypar66f",
-      "type": "income",
-      "amount": 120,
-      "date": "2026-08-17",
-      "category": "Web design",
-      "clientId": "msx0pgf7gyrx4",
-      "note": "Test"
-    },
-    {
-      "id": "msx0sl0h5r5sz",
-      "type": "income",
-      "amount": 0,
-      "date": "2026-08-17",
-      "category": "Web design",
-      "clientId": "msx0q54suz7o4",
-      "note": "Test"
-    }
-  ],
+  "transactions": [],
   "clients": [
     {
       "id": "msx0pgf7gyrx4",
