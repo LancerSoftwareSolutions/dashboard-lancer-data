@@ -37,14 +37,7 @@
       "note": ""
     }
   ],
-  "clients": [
-    {
-      "id": "msx2h1q98d1cn",
-      "name": "NTA",
-      "status": "lead",
-      "note": "Test"
-    }
-  ],
+  "clients": [],
   "workLogs": [
     {
       "id": "msx0qeowdqwcc",
