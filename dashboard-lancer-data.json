@@ -35,33 +35,6 @@
       "category": "Software & tools",
       "clientId": null,
       "note": "Test"
-    },
-    {
-      "id": "msy6fks6p90fw",
-      "type": "expense",
-      "amount": 25,
-      "date": "2026-08-18",
-      "category": "Hosting & domains",
-      "clientId": "msx2h1q98d1cn",
-      "note": ""
-    },
-    {
-      "id": "msy6fwrrayqcb",
-      "type": "expense",
-      "amount": 23,
-      "date": "2026-08-18",
-      "category": "Marketing",
-      "clientId": "msx0puz44j2gh",
-      "note": ""
-    },
-    {
-      "id": "msy6gld0b9m2m",
-      "type": "expense",
-      "amount": 53,
-      "date": "2026-08-18",
-      "category": "Contractor",
-      "clientId": "msx0pgf7gyrx4",
-      "note": ""
     }
   ],
   "clients": [
