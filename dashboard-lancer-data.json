@@ -17,6 +17,15 @@
       "category": "Web design",
       "clientId": "msx0puz44j2gh",
       "note": ""
+    },
+    {
+      "id": "msy6i9gip9kot",
+      "type": "expense",
+      "amount": 21,
+      "date": "2026-08-18",
+      "category": "Software & tools",
+      "clientId": null,
+      "note": ""
     }
   ],
   "clients": [
