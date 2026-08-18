@@ -44,6 +44,15 @@
       "category": "Hosting & domains",
       "clientId": "msx2h1q98d1cn",
       "note": ""
+    },
+    {
+      "id": "msy6fwrrayqcb",
+      "type": "income",
+      "amount": 23,
+      "date": "2026-08-18",
+      "category": "Consulting",
+      "clientId": "msx0puz44j2gh",
+      "note": ""
     }
   ],
   "clients": [
