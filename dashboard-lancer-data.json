@@ -53,6 +53,15 @@
       "category": "Marketing",
       "clientId": "msx0puz44j2gh",
       "note": ""
+    },
+    {
+      "id": "msy6gld0b9m2m",
+      "type": "expense",
+      "amount": 53,
+      "date": "2026-08-18",
+      "category": "Contractor",
+      "clientId": "msx0pgf7gyrx4",
+      "note": ""
     }
   ],
   "clients": [
