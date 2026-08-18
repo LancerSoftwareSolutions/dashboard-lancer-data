@@ -1,42 +1,5 @@
 {
-  "transactions": [
-    {
-      "id": "msy6hosrhaufj",
-      "type": "income",
-      "amount": 120,
-      "date": "2026-08-18",
-      "category": "Web design",
-      "clientId": "msx0pgf7gyrx4",
-      "note": "Test"
-    },
-    {
-      "id": "msy6hyj2qzpqe",
-      "type": "income",
-      "amount": 21,
-      "date": "2026-08-18",
-      "category": "Web design",
-      "clientId": "msx0puz44j2gh",
-      "note": ""
-    },
-    {
-      "id": "msy6i9gip9kot",
-      "type": "expense",
-      "amount": 21,
-      "date": "2026-08-18",
-      "category": "Software & tools",
-      "clientId": null,
-      "note": ""
-    },
-    {
-      "id": "msy6ipg6v2to6",
-      "type": "expense",
-      "amount": 5,
-      "date": "2026-08-18",
-      "category": "Contractor",
-      "clientId": null,
-      "note": ""
-    }
-  ],
+  "transactions": [],
   "clients": [],
   "workLogs": [
     {
