@@ -47,10 +47,10 @@
     },
     {
       "id": "msy6fwrrayqcb",
-      "type": "income",
+      "type": "expense",
       "amount": 23,
       "date": "2026-08-18",
-      "category": "Consulting",
+      "category": "Marketing",
       "clientId": "msx0puz44j2gh",
       "note": ""
     }
