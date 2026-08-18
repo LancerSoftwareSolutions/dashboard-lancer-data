@@ -35,6 +35,15 @@
       "category": "Software & tools",
       "clientId": null,
       "note": "Test"
+    },
+    {
+      "id": "msy6fks6p90fw",
+      "type": "expense",
+      "amount": 25,
+      "date": "2026-08-18",
+      "category": "Hosting & domains",
+      "clientId": "msx2h1q98d1cn",
+      "note": ""
     }
   ],
   "clients": [
