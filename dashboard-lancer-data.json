@@ -26,6 +26,15 @@
       "category": "Software & tools",
       "clientId": null,
       "note": ""
+    },
+    {
+      "id": "msy6ipg6v2to6",
+      "type": "expense",
+      "amount": 5,
+      "date": "2026-08-18",
+      "category": "Contractor",
+      "clientId": null,
+      "note": ""
     }
   ],
   "clients": [
