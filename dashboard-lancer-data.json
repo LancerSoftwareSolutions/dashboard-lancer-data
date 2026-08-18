@@ -1,5 +1,15 @@
 {
-  "transactions": [],
+  "transactions": [
+    {
+      "id": "msyqa599uhsar",
+      "type": "income",
+      "amount": 956323,
+      "date": "2026-08-18",
+      "category": "Web design",
+      "clientId": null,
+      "note": "Nugga"
+    }
+  ],
   "clients": [],
   "workLogs": [
     {
