@@ -36,6 +36,13 @@
       "hours": 5,
       "clientId": "msx2h1q98d1cn",
       "task": "htdj"
+    },
+    {
+      "id": "mszcs9ps9ceon",
+      "date": "2026-08-19",
+      "hours": 0.25,
+      "clientId": "mszcr4uom1gp2",
+      "task": "Send an offer to The DAG"
     }
   ],
   "theme": "dark"
