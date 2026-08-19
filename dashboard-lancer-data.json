@@ -1,5 +1,15 @@
 {
-  "transactions": [],
+  "transactions": [
+    {
+      "id": "mszr6uvsma6ab",
+      "type": "income",
+      "amount": 500,
+      "date": "2026-08-19",
+      "category": "Web design",
+      "clientId": "mszcr4uom1gp2",
+      "note": ""
+    }
+  ],
   "clients": [
     {
       "id": "mszcr4uom1gp2",
