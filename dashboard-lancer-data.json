@@ -8,6 +8,15 @@
       "category": "Web design",
       "clientId": "mszcr4uom1gp2",
       "note": ""
+    },
+    {
+      "id": "mt05m21iv69uw",
+      "type": "income",
+      "amount": 500,
+      "date": "2026-08-19",
+      "category": "Web design",
+      "clientId": "mt05lmqqif9sj",
+      "note": "Test test"
     }
   ],
   "clients": [
