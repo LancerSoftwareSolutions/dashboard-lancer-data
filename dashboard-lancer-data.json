@@ -17,6 +17,15 @@
       "category": "Web design",
       "clientId": "mt05lmqqif9sj",
       "note": "Test test"
+    },
+    {
+      "id": "mt05mm3hbvcd2",
+      "type": "expense",
+      "amount": 200,
+      "date": "2026-08-19",
+      "category": "Marketing",
+      "clientId": "mszcr4uom1gp2",
+      "note": ""
     }
   ],
   "clients": [
