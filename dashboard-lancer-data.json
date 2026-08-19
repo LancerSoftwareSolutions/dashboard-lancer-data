@@ -1,6 +1,13 @@
 {
   "transactions": [],
-  "clients": [],
+  "clients": [
+    {
+      "id": "mszcr4uom1gp2",
+      "name": "The DAG",
+      "status": "lead",
+      "note": "Sent an offer to their AI chatbot"
+    }
+  ],
   "workLogs": [
     {
       "id": "msx0qeowdqwcc",
