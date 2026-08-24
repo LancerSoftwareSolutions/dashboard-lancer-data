@@ -6,6 +6,12 @@
       "name": "The DAG",
       "status": "lead",
       "note": "Real Estate"
+    },
+    {
+      "id": "mt6xm5tox69pj",
+      "name": "Fatima Graphic Designer",
+      "status": "active",
+      "note": ""
     }
   ],
   "workLogs": [
