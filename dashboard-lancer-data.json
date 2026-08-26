@@ -139,6 +139,13 @@
       "hours": 0.25,
       "clientId": "mszcr4uom1gp2",
       "task": "Send an offer to The DAG"
+    },
+    {
+      "id": "mt9y8bjm9zq4a",
+      "date": "2026-08-26",
+      "hours": 0.5,
+      "clientId": "mt9x3e801lfud",
+      "task": "Sent messages regarding follow-ups for:\n\n-Born to Drone\n-CatCorner.lb\n-my.real_estate\n-car.fx\n-STFYK"
     }
   ],
   "theme": "dark"
