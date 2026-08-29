@@ -152,6 +152,13 @@
       "hours": 0.5,
       "clientId": "mt9x3e801lfud",
       "task": "Sent messages regarding follow-ups for:\n\n-Born to Drone\n-CatCorner.lb\n-my.real_estate\n-car.fx\n-STFYK"
+    },
+    {
+      "id": "mtdxtew89ixxj",
+      "date": "2026-08-29",
+      "hours": 2,
+      "clientId": "mt6xm5tox69pj",
+      "task": "Making sample sites with Claude for the client."
     }
   ],
   "theme": "dark"
