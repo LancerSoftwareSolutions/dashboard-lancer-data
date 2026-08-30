@@ -1,5 +1,15 @@
 {
-  "transactions": [],
+  "transactions": [
+    {
+      "id": "mtfoy0afogiic",
+      "type": "income",
+      "amount": 1000000000000000000,
+      "date": "2026-08-30",
+      "category": "Hosting",
+      "clientId": "mt6xm5tox69pj",
+      "note": ""
+    }
+  ],
   "clients": [
     {
       "id": "mszcr4uom1gp2",
