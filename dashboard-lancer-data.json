@@ -159,6 +159,13 @@
       "hours": 2,
       "clientId": "mt6xm5tox69pj",
       "task": "Making sample sites with Claude for the client."
+    },
+    {
+      "id": "mtgua7n1aewzu",
+      "date": "2026-08-30",
+      "hours": 4,
+      "clientId": "mt6xm5tox69pj",
+      "task": "Completed website by replacing placeholders. Awaiting payment when flight is completed"
     }
   ],
   "theme": "dark"
