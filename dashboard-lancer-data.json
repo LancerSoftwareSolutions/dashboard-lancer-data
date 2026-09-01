@@ -8,6 +8,15 @@
       "category": "Other",
       "clientId": null,
       "note": ""
+    },
+    {
+      "id": "mtif34avhlkn6",
+      "type": "expense",
+      "amount": 150,
+      "date": "2026-09-01",
+      "category": "Equipment",
+      "clientId": null,
+      "note": "Bag and Radio (Personal)"
     }
   ],
   "clients": [
