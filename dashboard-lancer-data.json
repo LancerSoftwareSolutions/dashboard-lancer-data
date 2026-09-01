@@ -1,15 +1,5 @@
 {
-  "transactions": [
-    {
-      "id": "mtievr5on3rlf",
-      "type": "income",
-      "amount": 150,
-      "date": "2026-09-01",
-      "category": "Web design",
-      "clientId": null,
-      "note": ""
-    }
-  ],
+  "transactions": [],
   "clients": [
     {
       "id": "mszcr4uom1gp2",
