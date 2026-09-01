@@ -17,6 +17,15 @@
       "category": "Equipment",
       "clientId": null,
       "note": "Bag and Radio (Personal)"
+    },
+    {
+      "id": "mtif40on8oc52",
+      "type": "income",
+      "amount": 143,
+      "date": "2026-06-01",
+      "category": "Other",
+      "clientId": null,
+      "note": ""
     }
   ],
   "clients": [
