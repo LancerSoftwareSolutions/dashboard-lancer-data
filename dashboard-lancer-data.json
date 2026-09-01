@@ -1,5 +1,15 @@
 {
-  "transactions": [],
+  "transactions": [
+    {
+      "id": "mtieucklcqego",
+      "type": "income",
+      "amount": 150,
+      "date": "2026-06-01",
+      "category": "Other",
+      "clientId": null,
+      "note": "Birthday Money"
+    }
+  ],
   "clients": [
     {
       "id": "mszcr4uom1gp2",
