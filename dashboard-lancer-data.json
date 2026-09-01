@@ -1,24 +1,5 @@
 {
-  "transactions": [
-    {
-      "id": "mtiewodv0vrx2",
-      "type": "income",
-      "amount": 300,
-      "date": "2026-04-20",
-      "category": "Other",
-      "clientId": null,
-      "note": ""
-    },
-    {
-      "id": "mtiexmahavdh6",
-      "type": "expense",
-      "amount": 120,
-      "date": "2026-07-01",
-      "category": "Equipment",
-      "clientId": null,
-      "note": "Radios"
-    }
-  ],
+  "transactions": [],
   "clients": [
     {
       "id": "mszcr4uom1gp2",
