@@ -17,15 +17,6 @@
       "category": "Equipment",
       "clientId": null,
       "note": "Radios"
-    },
-    {
-      "id": "mtieyf97mq660",
-      "type": "expense",
-      "amount": 30,
-      "date": "2026-09-01",
-      "category": "Equipment",
-      "clientId": null,
-      "note": "Bag"
     }
   ],
   "clients": [
