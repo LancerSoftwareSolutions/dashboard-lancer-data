@@ -1,5 +1,15 @@
 {
-  "transactions": [],
+  "transactions": [
+    {
+      "id": "mtif2mq9kymkl",
+      "type": "income",
+      "amount": 300,
+      "date": "2026-09-01",
+      "category": "Other",
+      "clientId": null,
+      "note": ""
+    }
+  ],
   "clients": [
     {
       "id": "mszcr4uom1gp2",
