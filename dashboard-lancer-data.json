@@ -8,6 +8,15 @@
       "category": "Other",
       "clientId": null,
       "note": ""
+    },
+    {
+      "id": "mtiexmahavdh6",
+      "type": "expense",
+      "amount": 120,
+      "date": "2026-07-01",
+      "category": "Equipment",
+      "clientId": null,
+      "note": "Radios"
     }
   ],
   "clients": [
