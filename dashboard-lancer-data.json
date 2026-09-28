@@ -1,6 +1,13 @@
 {
   "transactions": [],
-  "clients": [],
+  "clients": [
+    {
+      "id": "mulfb10osskiu",
+      "name": "Zenlytics",
+      "status": "active",
+      "note": ""
+    }
+  ],
   "workLogs": [
     {
       "id": "msx0qeowdqwcc",
