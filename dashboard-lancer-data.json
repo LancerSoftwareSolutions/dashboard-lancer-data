@@ -1,31 +1,6 @@
 {
   "transactions": [],
-  "clients": [
-    {
-      "id": "mszcr4uom1gp2",
-      "name": "The DAG",
-      "status": "lead",
-      "note": "Real Estate"
-    },
-    {
-      "id": "mt6xm5tox69pj",
-      "name": "Fatima Graphic Designer",
-      "status": "done",
-      "note": "Graphic Designer"
-    },
-    {
-      "id": "mt9vj6z289qhc",
-      "name": "Choisez",
-      "status": "lead",
-      "note": "Will contact me if they are interested. Men's Clothing Store"
-    },
-    {
-      "id": "mt9vp7nqwnn05",
-      "name": "YOUJAD_LB",
-      "status": "lead",
-      "note": "Disposable Item Distribution. Was interested, however hasn't messaged me back."
-    }
-  ],
+  "clients": [],
   "workLogs": [
     {
       "id": "msx0qeowdqwcc",
