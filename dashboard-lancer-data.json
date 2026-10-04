@@ -8,6 +8,15 @@
       "category": "Web design",
       "clientId": "mulfbnluojbtk",
       "note": "First payment"
+    },
+    {
+      "id": "mutmbmbtslrin",
+      "type": "expense",
+      "amount": 11.28,
+      "date": "2026-10-04",
+      "category": "Hosting & domains",
+      "clientId": "mulfbnluojbtk",
+      "note": ""
     }
   ],
   "clients": [
