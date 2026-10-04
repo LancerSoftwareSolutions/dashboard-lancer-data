@@ -1,5 +1,15 @@
 {
-  "transactions": [],
+  "transactions": [
+    {
+      "id": "mutmb5r03bymj",
+      "type": "income",
+      "amount": 11.48,
+      "date": "2026-10-04",
+      "category": "Web design",
+      "clientId": "mulfbnluojbtk",
+      "note": "First payment"
+    }
+  ],
   "clients": [
     {
       "id": "mulfb10osskiu",
