@@ -17,6 +17,15 @@
       "category": "Hosting & domains",
       "clientId": "mulfbnluojbtk",
       "note": ""
+    },
+    {
+      "id": "mvxz68xjpseei",
+      "type": "income",
+      "amount": 200,
+      "date": "2026-11-01",
+      "category": "Other",
+      "clientId": null,
+      "note": "Gained funds"
     }
   ],
   "clients": [
