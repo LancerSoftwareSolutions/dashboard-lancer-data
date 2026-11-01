@@ -26,6 +26,15 @@
       "category": "Other",
       "clientId": null,
       "note": "Gained funds"
+    },
+    {
+      "id": "mvxz97o2dhc89",
+      "type": "income",
+      "amount": 60,
+      "date": "2026-11-01",
+      "category": "Other",
+      "clientId": null,
+      "note": ""
     }
   ],
   "clients": [
