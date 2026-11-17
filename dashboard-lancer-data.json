@@ -26,6 +26,15 @@
       "category": "Other",
       "clientId": null,
       "note": "Gained funds"
+    },
+    {
+      "id": "mwkxa6z2121co",
+      "type": "income",
+      "amount": 12,
+      "date": "2026-11-17",
+      "category": "Web design",
+      "clientId": "mulfbnluojbtk",
+      "note": "$22.52 left"
     }
   ],
   "clients": [
